@@ -1,0 +1,18 @@
+server:
+  port: 8888
+  servlet:
+    context-path: /demo
+  ssl:
+    #keyStore密钥库，存放了服务端证书的私钥、公钥和证书
+    key-store: classpath:serverCA.p12
+    key-store-password: 123456
+    keyStoreType: PKCS12
+    keyAlias: 1
+
+    # trustStore信任库，存放了服务端信任的客户端证书的公钥文件
+    client-auth: need
+    trust-store: classpath:rootCA.keystore
+    trust-store-password: 123456
+    trust-store-type: JKS
+    trust-store-provider: SUN
+

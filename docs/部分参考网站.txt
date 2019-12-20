@@ -1,0 +1,16 @@
+https://www.jianshu.com/p/1864ec33a1f8    关于TSL/SSL的理解
+
+https://zhuanlan.zhihu.com/p/27040041   HTTPS 原理浅析及其在 Android 中的使用
+
+https://zhuanlan.zhihu.com/p/22816331   Android安全开发之安全使用HTTPS
+
+https://www.cnblogs.com/cocowool/p/wireshark_tcp_http.html  Wireshark使用入门
+
+https://blog.csdn.net/qq_40638618/article/details/96832444  okhttpClinet设置信任证书
+
+https://blog.csdn.net/lmj623565791/article/details/48129405  Android Https相关完全解析 当OkHttp遇到Https
+
+https://blog.csdn.net/qq_28938933/article/details/88832306  windows使用openssl生成根证书及SSL证书签发
+
+http://www.atmcu.com/909.html  创建 ANDROID BKS证书
+
